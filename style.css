@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     background: #ff8c99; /* Gradient background color */
-    font-family: 'Dancing Script', cursive; /* Cursive font applied here */
+    font-family: cursive; /* Cursive font applied here */
     font-size: 20px;
     color: #333;
     text-align: center;
